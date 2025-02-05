@@ -1,0 +1,15 @@
+package com.rays.bean;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.xml.XmlBeanFactory;
+import org.springframework.core.io.ClassPathResource;
+
+public class TestStudent {
+	private void mian() {
+		BeanFactory factory = new XmlBeanFactory(new ClassPathResource("StudentBean.xml"));
+
+		
+	}
+	
+
+}

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Rays\workspace\Spring-practical\Spring-Core\.metadata\.plugins\org.eclipse.jdt.core
+874770505.index
+1411338880.index
+2719123713.index
+1502783774.index
+1024446143.index
+1236201372.index
+3693586939.index
+4028096850.index
