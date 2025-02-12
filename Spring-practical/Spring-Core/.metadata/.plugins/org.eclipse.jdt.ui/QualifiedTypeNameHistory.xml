@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.rays.bean.PersonbyConstructor"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
@@ -8,4 +7,17 @@
     <fullyQualifiedTypeName name="com.rays.bean.StudentBySetter"/>
     <fullyQualifiedTypeName name="com.rays.bean.Person"/>
     <fullyQualifiedTypeName name="com.rays.bean.Multiple"/>
+    <fullyQualifiedTypeName name="com.rays.multiple.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="com.rays.nontype.UserDao"/>
+    <fullyQualifiedTypeName name="com.rays.nontype.UserService"/>
+    <fullyQualifiedTypeName name="com.rays.byname.UserDao"/>
+    <fullyQualifiedTypeName name="com.rays.byname.UserService"/>
+    <fullyQualifiedTypeName name="com.rays.bytype.UserDao"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.runtime.Context"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.runtime.Context.ThrowErrorManager"/>
+    <fullyQualifiedTypeName name="com.autowire.byconstructor.UserDao"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.autowire.byconstructor.UserService"/>
 </qualifiedTypeNameHistroy>

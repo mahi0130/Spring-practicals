@@ -1,0 +1,16 @@
+package com.rays.lifecycle;
+
+public class MyBeanAnnotation {
+	@PostConstruct
+	public void init() {
+		System.out.println("init method");
+	}
+
+	@PreDestroy
+	public void destroy() {
+		System.out.println("destroy method");
+	}
+
+
+
+}

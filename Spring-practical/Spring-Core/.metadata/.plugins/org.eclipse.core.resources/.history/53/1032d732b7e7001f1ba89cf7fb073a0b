@@ -1,0 +1,5 @@
+package com.autowire.byconstructor;
+
+public class TestByConstructor {
+
+}

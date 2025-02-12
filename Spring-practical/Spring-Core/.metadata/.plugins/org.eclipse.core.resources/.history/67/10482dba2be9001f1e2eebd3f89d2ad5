@@ -1,0 +1,14 @@
+package com.rays.primary;
+
+public class NotificationService {
+	private MessageService messageService;
+
+	
+
+	public void setMessageService(MessageService messageService) {
+		this.messageService = messageService;
+	}
+	
+	
+
+}

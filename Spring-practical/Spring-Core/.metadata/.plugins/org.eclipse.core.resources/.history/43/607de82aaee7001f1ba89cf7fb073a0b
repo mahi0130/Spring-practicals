@@ -1,0 +1,5 @@
+package com.rays.nontype;
+
+public class UserDaoImpl {
+
+}
