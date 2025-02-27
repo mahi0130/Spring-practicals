@@ -1,0 +1,17 @@
+127.0.0.1 - - [27/Feb/2025:18:58:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:18:58:37 +0530] "GET /Spring-Language01/ HTTP/1.1" 200 296
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:18:59:54 +0530] "GET /Spring-Language01/ HTTP/1.1" 200 296
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:18:59:54 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:18:59:57 +0530] "GET /Spring-Language01/Welcome;jsessionid=B289AB86B006DE6CC40EFF8646351582 HTTP/1.1" 500 17859
+127.0.0.1 - - [27/Feb/2025:19:04:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:21 +0530] "GET /Spring-Language01/ HTTP/1.1" 200 252
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:24 +0530] "GET /Spring-Language01/Welcome HTTP/1.1" 200 1275
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:27 +0530] "GET /Spring-Language01/Welcome?lang=hi HTTP/1.1" 200 1321
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:28 +0530] "GET /Spring-Language01/Welcome?lang=en HTTP/1.1" 200 1275
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:32 +0530] "GET /Spring-Language01/Login HTTP/1.1" 200 1864
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:40 +0530] "POST /Spring-Language01/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:40 +0530] "GET /Spring-Language01/Welcome HTTP/1.1" 200 1372
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:44 +0530] "GET /Spring-Language01/User/search HTTP/1.1" 200 4808
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:47 +0530] "GET /Spring-Language01/User HTTP/1.1" 200 2372
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:48 +0530] "GET /Spring-Language01/Login?operation=logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Feb/2025:19:04:49 +0530] "GET /Spring-Language01/Login HTTP/1.1" 200 1864

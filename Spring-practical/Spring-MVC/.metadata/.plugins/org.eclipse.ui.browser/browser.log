@@ -1,0 +1,10 @@
+
+Feb 20, 2025 16:38:36.61 NEW SESSION
+Feb 20, 2025 16:38:36.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 20, 2025 16:38:36.61 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Feb 21, 2025 17:18:00.72 NEW SESSION
+Feb 21, 2025 17:18:00.72 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 21, 2025 17:18:00.72 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 21, 2025 17:26:03.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 21, 2025 17:26:03.58 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).

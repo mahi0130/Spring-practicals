@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;Spring-MVC&apos;&#x0D;&#x0A;- Original project: &apos;Spring-MVC&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     messages_en.properties&#x0D;&#x0A;     messages_hi.properties" description="Delete elements" element1="src/main/resources/messages_hi.properties" element2="src/main/resources/messages_en.properties" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1740655596474" subPackages="false" version="1.0"/>
+</session>
